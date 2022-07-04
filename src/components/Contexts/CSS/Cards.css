@@ -1,0 +1,17 @@
+.top-heading{
+    /* border: 1px solid red; */
+    margin-bottom: 3%;
+}
+
+.Images{
+ /* border: 1px solid red; */
+ height: 270px;
+ max-width: 70%;
+ align-items: center;
+ margin-left: 18%;
+}
+
+.cardtext{
+    /* border: 1px solid red; */
+    font-size: large;
+}
